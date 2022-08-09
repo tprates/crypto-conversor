@@ -2,14 +2,15 @@
 
 `Análise e Desenvolvimento de Sistemas`
 
-`Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 1`
+`Projeto: Desenvolvimento de Aplicação Interativa - Turma 1 - Grupo 3`
 
-`Segundo Semestre - 2022/01`
+`Segundo Semestre - 2022/02`
 
-[![Publish to gh-pages](https://github.com/ICEI-PUC-Minas-PMV-ADS/crypto-conversor/actions/workflows/publish.yml/badge.svg)](https://github.com/ICEI-PUC-Minas-PMV-ADS/crypto-conversor/actions/workflows/publish.yml)
 
-Nosso projeto chama-se **CRYPTO-CONVERSOR**, uma calculadora de conversões de criptomoedas rápida e de fácil utilização com o intuito de melhorar a experiencia de investidores e ajudar integração daqueles que querem começar neste universo monetário digital. </br>
-Nosso foco será melhorar a experiencia do usuário e trazer um pouco de luz a este assunto muitas vezes cobiçado pelos possíveis ganhos mas temido pela falta de informações de fácil entendimento e pela linguagem própria deste mercado.
+
+Nosso projeto chama-se **Empreste-Fácil**, um sistema de análise, de manda e fornecimento de crédito. </br>
+Nosso foco é ajudar desde o cidadão que necessita de credito até as pequenas empresas que fornecem este serviço. </br>
+O intuito é facilitar o acesso ao crédito, com segurança, ao consumidor e também ao pequeno empresário, fujindo um pouco dos padrões burocráticos e demorados convencionais.
 
 # Integrantes
 
@@ -17,13 +18,12 @@ Nosso foco será melhorar a experiencia do usuário e trazer um pouco de luz a e
 * <a href="https://github.com/gamirca">Gabriel Miranda Cangussu</a>
 * <a href="https://github.com/iagxferreira">Iago José Silva Ferreira</a>
 * <a href="https://github.com/mths1094">Matheus Henique Rodrigues</a>
-* <a href="https://github.com/RENANCC1994">Renan Costa Cunha</a>
 * <a href="https://github.com/Tafarel-Mello">Tafarel Luis de Mello</a>
 * <a href="https://github.com/tprates">Thiago Costa Prates</a>
 
 # Orientador
 
-* Joyce Christina de Paiva Carvalho
+* Rosilane Ribeiro da Mota
 
 # Instruções de utilização
 
