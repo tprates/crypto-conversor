@@ -1,10 +1,10 @@
-# CRYPTO-CONVERSOR 
+# Empreste-Fácil 
 
 `Análise e Desenvolvimento de Sistemas`
 
-`Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 2`
+`Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 1`
 
-`Primeiro Semestre - 2022/01`
+`Segundo Semestre - 2022/01`
 
 [![Publish to gh-pages](https://github.com/ICEI-PUC-Minas-PMV-ADS/crypto-conversor/actions/workflows/publish.yml/badge.svg)](https://github.com/ICEI-PUC-Minas-PMV-ADS/crypto-conversor/actions/workflows/publish.yml)
 
