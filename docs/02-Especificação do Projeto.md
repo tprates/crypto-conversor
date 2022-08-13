@@ -27,6 +27,17 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 
 
 
+## `Thomas Ferreira`
+
+| ![persona 2-edit]![persona 5-edit](https://user-images.githubusercontent.com/93105125/184462583-ad14f96e-3dec-4328-8ed9-c0af81c3c9b9.png) | Thomas Ferreira, 33 anos                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| Ocupação                    | Empreendedor  
+| Credit Score                | Fornecedor de crédito        |
+| Motivações                  | Ser capaz de inserir sua empresa no mercado de forma efetiva. Ser capaz de avaliar o perfil do seu cliente em potencial de forma clara e direta.   |
+| Frustações                  | Não ter a capacidade de arcar com os altos custos dos grandes _softwares_ de analise de crédito.     |
+
+
+
 ## `Geneci dos Santos`
 
 | ![persona 4-edit](https://user-images.githubusercontent.com/93105125/163298133-dc2a571d-5b3e-4c43-9ad8-7cd4df1b4f95.png) | Geneci dos Santos, 63 anos                                                                                                       |
