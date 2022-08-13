@@ -12,9 +12,9 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------     |
 | Ocupação                                    | Designer de bolsas e sapatos - Pessoa Física 
 | Credit Score                                |  900/1000                                                                   
-| Motivações | Obter crédito via empréstimo de forma remota e sem a necessidade do deslocamento presencial voltado às pessoas físicas de modo à impulsionar as suas atividades como designer de bolsas e sapatos  
+| Motivações | Obter crédito via empréstimo de forma remota voltado às pessoas físicas de modo à impulsionar as suas atividades como designer de bolsas e sapatos,e, sem a necessidade do deslocamento presencial 
 | Restrições anteriores de crédito em seu nome | Não                                                                                        
-| Frustrações |  Ainda que possua um elevado Credit Score e não possua restrições anteriores de crédito em seu nome, encontra dificuldade em adquirir empréstimos nas empresas tradicionais, pois, por ser autônoma, estas empresas exigem a sua presença física para análise e eventual concessão da linha de crédito, o que gera grande dificuldade, dado que, por trabalhar sozinha, o deslocamento muitas vezes nos grandes centros urbanos 
+| Frustrações |  Ainda que possua um elevado Credit Score e não tenha restrições anteriores de crédito em seu nome, encontra dificuldade em adquirir empréstimos nas empresas tradicionais, pois, por ser autônoma, estas empresas exigem a sua presença física para análise e eventual concessão da linha de crédito, o que gera grande dificuldade, dado que, por trabalhar sozinha, a locomoção nos grandes centros urbanos se mostra inviável
 
 ## `Leonardo Jacques`
 
@@ -23,7 +23,7 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 | Ocupação                    | Operador de máquinas CNC  
 | Credit Score                |        850/1000            |
 | Motivações                  |      Conseguir a liberação de linha de crédito para a quitação de seu financiamento imobiliário           |
-| Frustações                  |      Até o momento não encontrou  junto às empresas tradicionais do segmento um aplicativo com a opção para financiamento imobiliário de maneira específica             |
+| Frustações                  |      Até o momento não encontrou  junto às empresas tradicionais do segmento um aplicativo com a opção específica de financiamento imobiliário            |
 
 
 
@@ -33,8 +33,8 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | Ocupação                    | Empreendedor  
 | Credit Score                | Fornecedor de crédito        |
-| Motivações                  | Ser capaz de inserir sua empresa no mercado de forma efetiva. Ser capaz de avaliar o perfil do seu cliente em potencial de forma clara e direta.   |
-| Frustações                  | Não ter a capacidade de arcar com os altos custos dos grandes _softwares_ de analise de crédito.     |
+| Motivações                  | Ser capaz de inserir sua empresa no mercado de forma efetiva, tal como, avaliar o perfil do seu cliente em potencial de forma clara e direta.   |
+| Frustações                  | Não ter a capacidade de arcar com os altos custos dos grandes <i>softwares</i> de análise de crédito.     |
 
 
 
@@ -44,8 +44,8 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | Ocupação            | Recém-aposentada |                                                                                                 
 | Credit Score        | 850/1000                                                                                                                
-| Motivações          | Deseja obter um empréstimo via aplicativo para realizar um tratamento médico, pois, não possui plano de saúde 
-| Frustrações?        | Como não domina o uso de novas tecnologias, precisa de um aplicativo que ofereça praticidade e facilidade em seu uso                                                                                                                       
+| Motivações          | Deseja obter um empréstimo via aplicativo para realizar um tratamento médico, pois, além de não possuir plano de saúde, também apresenta problemas de locomoção.
+| Frustrações?        | Como não domina o uso de novas tecnologias e tem impedimentos físicos relacionados à mobilidade, precisa de um aplicativo que ofereça praticidade, remoticidade e facilidade em seu uso                                                                                                                       
 
 ## `Rafael Luis`
 
@@ -66,9 +66,9 @@ A partir do entendimento das necessidades expostas por cada persona, registramos
 | Leonardo Jacques         | Obter empréstimo para saldar o seu financiamento imobiliário | Necessita de agilidade e singularidade, pois, até o momento não encontrou um aplicativo que possua a opção de empréstimo voltado especificamente à quitação de financiamento imobiliário, o que por ser mais direcionado, poderia ensejar melhores condições de pagamento.
 | Thomas Ferreira          |                                                                                |
 | Thomas Ferreira          |                                                                                |
-| Geneci dos Santos        | Uma ferramenta que permita a concessão de empréstimo de forma fácil e simples  |  A conclusão do empréstimo via aplicativo com menos etapas possíveis
+| Geneci dos Santos        | Uma ferramenta que permita a concessão de empréstimo de forma fácil, remota e simples  |  A conclusão do empréstimo via aplicativo com menos etapas possíveis
 | Rafael Luis              | Obter aprovação rápida de crédito para compra de peças de reposição  | Dar mais agilidade de resposta a seus clientes
-| Rafael Luis              | Aumentar a margem de credito de sua micro-empresa  | possibilitar sua expansão no mercado de forma competitiva
+| Rafael Luis              | Aumentar a margem de credito de sua micro-empresa  | Possibilitar sua expansão no mercado de forma competitiva
 
 
 
