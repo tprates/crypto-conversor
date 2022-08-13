@@ -8,9 +8,9 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 
 ## `TAMIRES LETICIA DE MELLO`
 
-| ![persona 1-edit](https://user-images.githubusercontent.com/93105125/163296843-f40d3ca4-f3cb-4659-ad5f-775d53c7b8c4.png) | Tamires Leticia de Mello, 32 anos                                                                                                  |
+| ![persona 1-edit1](https://user-images.githubusercontent.com/93105125/184463332-bc11ea3f-570a-431b-b761-0578aad9be0f.png) | Tamires Leticia de Mello, 32 anos                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------     |
-| Ocupação                                    | Designer de bolsas e sapatos - Pessoa Física                                                                                           
+| Ocupação                                    | Designer de bolsas e sapatos - Pessoa Física 
 | Credit Score                                |  900/1000                                                                   
 | Motivações | Obter crédito via empréstimo de forma remota e sem a necessidade do deslocamento presencial voltado às pessoas físicas de modo à impulsionar as suas atividades como designer de bolsas e sapatos  
 | Restrições anteriores de crédito em seu nome | Não                                                                                        
@@ -18,7 +18,7 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 
 ## `Leonardo Jacques`
 
-| ![persona 2-edit](https://user-images.githubusercontent.com/93105125/163297709-eadeb0bb-c882-4206-b2eb-fc9cc769bd57.png) | Leonardo Jacques, 36 anos                                                                                |
+| ![persona 2-edit1](https://user-images.githubusercontent.com/93105125/184463347-8705e0fa-419c-405e-bbdf-054222c739ac.png) | Leonardo Jacques, 36 anos                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | Ocupação                    | Operador de máquinas CNC  
 | Credit Score                |        850/1000            |
@@ -29,7 +29,7 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 
 ## `Thomas Ferreira`
 
-| ![persona 2-edit]![persona 5-edit](https://user-images.githubusercontent.com/93105125/184462583-ad14f96e-3dec-4328-8ed9-c0af81c3c9b9.png) | Thomas Ferreira, 33 anos                                                                                |
+| ![persona 5-edit1](https://user-images.githubusercontent.com/93105125/184463353-81e040c4-a04e-4d21-86df-6d9196dce137.png) | Thomas Ferreira, 33 anos                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | Ocupação                    | Empreendedor  
 | Credit Score                | Fornecedor de crédito        |
@@ -40,7 +40,7 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 
 ## `Geneci dos Santos`
 
-| ![persona 4-edit](https://user-images.githubusercontent.com/93105125/163298133-dc2a571d-5b3e-4c43-9ad8-7cd4df1b4f95.png) | Geneci dos Santos, 63 anos                                                                                                       |
+| ![persona 4-edit1](https://user-images.githubusercontent.com/93105125/184463368-b5644e11-5e5b-43db-84db-0b1f980d5fa3.png) | Geneci dos Santos, 63 anos                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | Ocupação            | Recém-aposentada |                                                                                                 
 | Credit Score        | 850/1000                                                                                                                
@@ -49,7 +49,7 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 
 ## `Rafael Luis`
 
-| ![persona 3-edit](https://user-images.githubusercontent.com/93105125/163298476-3d2c9ee8-36b1-4f8a-bc09-eeaef548c772.png) | Rafael Luis, 35 anos                                                                                                           |
+| ![persona 3-edit1](https://user-images.githubusercontent.com/93105125/184463370-e1c99e92-fe8d-4509-af57-d5392746152b.png) | Rafael Luis, 35 anos                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
 | Ocupação            | Tecnico em TI |                                                                                                 
 | Credit Score        | 800/1000                                                                                                                
@@ -64,6 +64,8 @@ A partir do entendimento das necessidades expostas por cada persona, registramos
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Tamires Leticia de Mello | Obter empréstimo de forma totalmente remota | Evitar o deslocamento físico e dedicar mais tempo ao seu trabalho                    |
 | Leonardo Jacques         | Obter empréstimo para saldar o seu financiamento imobiliário | Necessita de agilidade e singularidade, pois, até o momento não encontrou um aplicativo que possua a opção de empréstimo voltado especificamente à quitação de financiamento imobiliário, o que por ser mais direcionado, poderia ensejar melhores condições de pagamento.
+| Thomas Ferreira          |                                                                                |
+| Thomas Ferreira          |                                                                                |
 | Geneci dos Santos        | Uma ferramenta que permita a concessão de empréstimo de forma fácil e simples  |  A conclusão do empréstimo via aplicativo com menos etapas possíveis
 | Rafael Luis              | Obter aprovação rápida de crédito para compra de peças de reposição  | Dar mais agilidade de resposta a seus clientes
 | Rafael Luis              | Aumentar a margem de credito de sua micro-empresa  | possibilitar sua expansão no mercado de forma competitiva
