@@ -34,18 +34,16 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 | Ocupação            | Recém-aposentada |                                                                                                 
 | Credit Score        | 850/1000                                                                                                                
 | Motivações          | Deseja obter um empréstimo via aplicativo para realizar um tratamento médico, pois, não possui plano de saúde 
-
-| Frustrações?        |   Como não domina o uso de novas tecnologias, precisa de um aplicativo que ofereça praticidade e facilidade em seu uso                                                                                                                       
+| Frustrações?        | Como não domina o uso de novas tecnologias, precisa de um aplicativo que ofereça praticidade e facilidade em seu uso                                                                                                                       
 
 ## `Rafael Luis`
 
 | ![persona 3-edit](https://user-images.githubusercontent.com/93105125/163298476-3d2c9ee8-36b1-4f8a-bc09-eeaef548c772.png) | Rafael Luis, 35 anos                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| Ocupação                                                                                                                 | Técnico em informática                                                                                                         |
-| Aplicativos preferidos                                                                                                   | Facebook, Watsapp, LinkedIn e aplicativos de bancos                                                                            |
-| Motivações                                                                                                               | Já ativo no mercado digital, na posição de empresário, busca diversificar suas fontes de renda em investimentos mais dinâmicos |
-| Seus Hobbies                                                                                                             | Futebol com os amigos, ir ao estádio do seu time e estar com sua esposa e filha                                                |
-| Frustrações?                                                                                                             | Não conseguir acompanhar sua carteira de criptomoedas de forma rápida e consistente                                            |
+| Ocupação            | Tecnico em TI |                                                                                                 
+| Credit Score        | 800/1000                                                                                                                
+| Motivações          | Deseja aumentar o crédito de sua micro-empresa para assim melhorar a agilidade de atendimento a seus clientes 
+| Frustrações?        | Como trabalha muito com manutenção em seus clientes, necessita de uma linha de crédito rápida para a reposição de peças, coisa que não tem com o sistema tradicional   
 
 ## Histórias de Usuários
 
@@ -55,13 +53,13 @@ A partir do entendimento das necessidades expostas por cada persona, registramos
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Tamires Leticia de Mello | Obter empréstimo de forma totalmente remota | Evitar o deslocamento físico e dedicar mais tempo ao seu trabalho                    |
 | Leonardo Jacques         | Obter empréstimo para saldar o seu financiamento imobiliário | Necessita de agilidade e singularidade, pois, até o momento não encontrou um aplicativo que possua a opção de empréstimo voltado especificamente à quitação de financiamento imobiliário, o que por ser mais direcionado, poderia ensejar melhores condições de pagamento.
-| Geneci dos Santos        | Uma ferramenta que permita a concessão de empréstimo de forma fácil e simples  | 
- A conclusão do empréstimo via aplicativo com menos etapas possíveis              
+| Geneci dos Santos        | Uma ferramenta que permita a concessão de empréstimo de forma fácil e simples  |  A conclusão do empréstimo via aplicativo com menos etapas possíveis
+| Rafael Luis              | Obter aprovação rápida de crédito para compra de peças de reposição  | Dar mais agilidade de resposta a seus clientes
+| Rafael Luis              | Aumentar a margem de credito de sua micro-empresa  | possibilitar sua expansão no mercado de forma competitiva
 
-| Rafael Luis              | Uma ferramenta de fácil visualização da cotação das criptomoedas                                                                | Agilizar a tomada de decisão de qual moeda investir                                                      |
-| Rafael Luis              | Realizar a pesquisa do valor de uma criptomoeda específica                                                                      | Localizar rapidamente uma moeda que já é de seu interesse ou de sua carteira                             |
-| Rafael Luis              | Utilizar a ferramenta também pelo celular                                                                                       | Se manter informado em momentos que não tiver acesso ao desktop                                          |
-| Rafael Luis              | Cadastrar sua carteira composta por criptoativos e moedas fiduciárias e comparar valores fazendo conversões de forma rápida     | cotar o valor de sua carteira em uma moeda ou criptoativo de sua escolha                                 |
+
+
+
 
 ## Requisitos
 
@@ -71,8 +69,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | ID     | Descrição do Requisito                                                                                                                                                                                                | Prioridade |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| RF-001 | O site apresentará na página principal as opções de serviço disponíveis. São elas: conversão de valores e monitoramento do mercado.                                                      | ALTA       |
-| RF-002 | O site permitirá ao usuário informar a moeda fiduciária e/ou criptoativo "de entrada” e a moeda fiduciária e/ou criptoativo "alvo” para conversão.                                                                    | ALTA       |
+| RF-001 | O site deve ser de fácil leitura e entendimento.            | ALTA       |
+| RF-002 | O site deve permitir ao cliente criar seu cadastro pessoal. | ALTA       |
 | RF-003 | O site terá uma página em que será possível acompanhar a cotação das criptomoedas no mercado financeiro.                                                                                                              | BAIXA      |
 | RF-004 | O site terá uma página em que será possível acessar um formulário de contato para que o usuário possa enviar dúvidas, sugestões ou críticas aos desenvolvedores do projeto.                                           | MÉDIA      |
 | RF-005 | Os campos presentes no formulário de contato são de preenchimento obrigatório, salvo o referente ao número de telefone, o que traz mais credibilidade ao contato do usuário, bem como minimiza o recebimento de spam. | ALTA       |
